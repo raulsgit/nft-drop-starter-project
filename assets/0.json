@@ -1,0 +1,19 @@
+{
+    "name": "Ichigo",
+    "symbol": "",
+    "image": "0.png",
+    "properties": {
+      "files": [
+        {
+          "uri": "0.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": [
+        {
+          "address": "3ihKvE57R2a1ucH6LTw3eG6fS1hVvZKJtWaDXS2RRghT",
+          "share": 100
+        }
+      ]
+    }
+  }
